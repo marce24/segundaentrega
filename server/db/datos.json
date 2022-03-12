@@ -1,0 +1,247 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Morrón rojo",
+      "description": "Clásico pimiento para cocinar",
+      "price": 100,
+      "stock": 75,
+      "offer": null,
+      "category": "verdura",
+      "estacion": 3,
+      "img": "../assets/images/products/morronrojo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Morrón verde",
+      "description": "Clásico pimiento para cocinar",
+      "price": 90,
+      "stock": 80,
+      "offer": null,
+      "category": "verdura",
+      "estacion": 3,
+      "img": "../assets/images/products/morronverde.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Morrón amarillo",
+      "description": "Clásico pimiento para cocinar",
+      "price": 110,
+      "stock": 70,
+      "offer": null,
+      "category": "verdura",
+      "estacion": 3,
+      "img": "../assets/images/products/morronamarillo.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Zanahoria",
+      "description": "Por kilo",
+      "price": 199,
+      "stock": 1000,
+      "category": "verdura",
+      "img": "../assets/images/products/zanahoria.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Palta por unidad",
+      "description": "El súper alimento",
+      "price": 129,
+      "stock": 499,
+      "offer": null,
+      "category": "verdura",
+      "img": "../assets/images/products/palta.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Aceite de Coco 200 ml",
+      "description": "Para cocinar con lo mejor",
+      "price": 257,
+      "stock": 320,
+      "offer": null,
+      "category": "productos",
+      "img": "../assets/images/products/aceitecoco200ml.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Lechuga Crespa",
+      "description": "Una de las más sabrosas",
+      "price": 80,
+      "stock": 390,
+      "offer": null,
+      "category": "verduras",
+      "img": "../assets/images/products/lechuga-crespa.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Manzana roja",
+      "description": "Manzana más que sana",
+      "price": 105,
+      "stock": 300,
+      "offer": null,
+      "category": "frutas",
+      "img": "../assets/images/products/manzana-roja.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Melón",
+      "description": "El mejor del mundo",
+      "price": 100,
+      "stock": 320,
+      "offer": null,
+      "category": "frutas",
+      "img": "../assets/images/products/melon.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Ajo",
+      "description": "Ajo y Agua",
+      "price": 25,
+      "stock": 300,
+      "offer": null,
+      "category": "verduras",
+      "img": "../assets/images/products/ajo.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Remolacha",
+      "description": "De lo mejor para ensaladas",
+      "price": 70,
+      "stock": 3000,
+      "offer": null,
+      "category": "verduras",
+      "img": "../assets/images/products/remolacha.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Durazno",
+      "description": "Durazno con poco pelo",
+      "price": 60,
+      "stock": 3000,
+      "offer": null,
+      "category": "frutas",
+      "img": "../assets/images/products/durazno.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Cebolla",
+      "description": "Ideal para ensaladas de todos los días",
+      "price": 57,
+      "stock": 3000,
+      "offer": null,
+      "category": "verduras",
+      "img": "../assets/images/products/cebolla.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Aceite de Oliva 500ml",
+      "description": "Para todo uso",
+      "price": 230,
+      "stock": 3000,
+      "offer": null,
+      "category": "productos",
+      "img": "../assets/images/products/aceite-oliva.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Harina x kilo",
+      "description": "Las mejores pizzas se hacen con esta harina",
+      "price": 110,
+      "stock": 3000,
+      "offer": null,
+      "category": "productos",
+      "img": "../assets/images/products/harina.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Mermelada de Frutilla 270g",
+      "description": "Preparate las tostadas más sabrosas del mundo",
+      "price": 156,
+      "stock": 3000,
+      "offer": null,
+      "category": "productos",
+      "img": "../assets/images/products/mermelada-frutilla.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Café colombiano Orgánico 100g",
+      "description": "El que toman los que saben",
+      "price": 100,
+      "stock": 3000,
+      "offer": null,
+      "category": "productos",
+      "img": "../assets/images/products/cafe.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Frutillas",
+      "description": "De las buenas buenas",
+      "price": 97,
+      "stock": 3000,
+      "offer": null,
+      "category": "frutas",
+      "img": "../assets/images/products/frutillas.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Berenjena negra x kilo",
+      "description": "Las mejores",
+      "price": 123,
+      "stock": 3000,
+      "offer": null,
+      "category": "verduras",
+      "img": "../assets/images/products/berenjena-negra.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Brócoli x kilo",
+      "description": "El arbolito que no le gusta a los niños",
+      "price": 230,
+      "stock": 3000,
+      "offer": null,
+      "category": "verduras",
+      "img": "../assets/images/products/brocoli.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Jugos tropicales x litro",
+      "description": "Adelantate al verano",
+      "price": 520,
+      "stock": 3000,
+      "offer": null,
+      "category": "frutas",
+      "img": "../assets/images/products/jugos-tropicales.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Araza 200g",
+      "description": "La poco conocida fruta yorugua",
+      "price": 520,
+      "stock": 3000,
+      "offer": null,
+      "category": "frutas",
+      "img": "../assets/images/products/araza.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Naranja x kilo",
+      "description": "La que comían Cavani y Suárez antes de hacer goles",
+      "price": 99,
+      "stock": 3000,
+      "offer": null,
+      "category": "frutas",
+      "img": "../assets/images/products/naranja.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Hamburguesa vegetal congelada",
+      "description": "Lo que a ningún vegetta le puede faltar",
+      "price": 200,
+      "stock": 3000,
+      "offer": null,
+      "category": "productos",
+      "img": "../assets/images/products/hamburguesa-vegetal.jpg"
+    }
+
+  ]
+}
